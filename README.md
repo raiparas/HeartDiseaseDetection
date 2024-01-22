@@ -1,7 +1,7 @@
 # HeartDiseaseDetection
 ML model for heart disease prediction: Built with Scikit-learn &amp; TensorFlow, featuring robust dataset preprocessing, advanced feature engineering, and optimized classification algorithms. Achieved high accuracy through meticulous cross-validation and hyperparameter tuning. #MachineLearning #HealthTech
 
-# Heart Disease Prediction with Machine Learning
+# Heart Disease Prediction with Machine Learning ❤️
 
 Welcome to the Heart Disease Detection project! This machine learning model, developed during my time at Bournemouth University, aims to forecast heart disease based on patient data. The project leverages Scikit-learn and TensorFlow to construct a powerful predictive model.
 
